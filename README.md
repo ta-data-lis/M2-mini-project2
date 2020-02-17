@@ -4,7 +4,7 @@
 
 ## Introduction
 
-The objective of this lab is to review the concepts of Inferential Statistics that you learned during this week. We will review them by using a dataset containing data from WNBA players and imagining that you want to contribute to heated family discussions over various topic related to basketball.
+ The objective of this lab is to review the concepts of Inferential Statistics that you learned during this week. We will review them by using a dataset containing data from WNBA players and imagining that you want to contribute to heated family discussions over various topic related to basketball.
 
 The question that we will try to resolve through statistics are the following:
 - Your grandmother says that your sister couldn’t play in a professional basketball league (not only the WNBA, but ANY professional basketball league) because she’s too skinny and lacks muscle.
